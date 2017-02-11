@@ -4,3 +4,5 @@ Git has a mutable index called stage
 modify readme.txt
 111111
 add 5555
+66666666666
+
